@@ -1,0 +1,9 @@
+C:\Users\Adeal-Admin\documents\visual studio 2017\Projects\WebForm\EmployeeSchema\bin\Debug\netstandard2.0\EmployeeSchema.deps.json
+C:\Users\Adeal-Admin\documents\visual studio 2017\Projects\WebForm\EmployeeSchema\bin\Debug\netstandard2.0\EmployeeSchema.dll
+C:\Users\Adeal-Admin\documents\visual studio 2017\Projects\WebForm\EmployeeSchema\bin\Debug\netstandard2.0\EmployeeSchema.pdb
+C:\Users\Adeal-Admin\documents\visual studio 2017\Projects\WebForm\EmployeeSchema\obj\Debug\netstandard2.0\EmployeeSchema.csprojAssemblyReference.cache
+C:\Users\Adeal-Admin\documents\visual studio 2017\Projects\WebForm\EmployeeSchema\obj\Debug\netstandard2.0\EmployeeSchema.csproj.CoreCompileInputs.cache
+C:\Users\Adeal-Admin\documents\visual studio 2017\Projects\WebForm\EmployeeSchema\obj\Debug\netstandard2.0\EmployeeSchema.AssemblyInfoInputs.cache
+C:\Users\Adeal-Admin\documents\visual studio 2017\Projects\WebForm\EmployeeSchema\obj\Debug\netstandard2.0\EmployeeSchema.AssemblyInfo.cs
+C:\Users\Adeal-Admin\documents\visual studio 2017\Projects\WebForm\EmployeeSchema\obj\Debug\netstandard2.0\EmployeeSchema.dll
+C:\Users\Adeal-Admin\documents\visual studio 2017\Projects\WebForm\EmployeeSchema\obj\Debug\netstandard2.0\EmployeeSchema.pdb

@@ -1,0 +1,12 @@
+C:\Users\Adeal-Admin\documents\visual studio 2017\Projects\WebForm\EmployeeDAL\bin\Debug\netstandard2.0\EmployeeSchema.dll
+C:\Users\Adeal-Admin\documents\visual studio 2017\Projects\WebForm\EmployeeDAL\obj\Debug\netstandard2.0\EmployeeDAL.csprojAssemblyReference.cache
+C:\Users\Adeal-Admin\documents\visual studio 2017\Projects\WebForm\EmployeeDAL\obj\Debug\netstandard2.0\EmployeeDAL.csproj.CoreCompileInputs.cache
+C:\Users\Adeal-Admin\documents\visual studio 2017\Projects\WebForm\EmployeeDAL\obj\Debug\netstandard2.0\EmployeeDAL.AssemblyInfoInputs.cache
+C:\Users\Adeal-Admin\documents\visual studio 2017\Projects\WebForm\EmployeeDAL\obj\Debug\netstandard2.0\EmployeeDAL.AssemblyInfo.cs
+C:\Users\Adeal-Admin\documents\visual studio 2017\Projects\WebForm\EmployeeDAL\bin\Debug\netstandard2.0\EmployeeDAL.deps.json
+C:\Users\Adeal-Admin\documents\visual studio 2017\Projects\WebForm\EmployeeDAL\bin\Debug\netstandard2.0\EmployeeDAL.dll
+C:\Users\Adeal-Admin\documents\visual studio 2017\Projects\WebForm\EmployeeDAL\bin\Debug\netstandard2.0\EmployeeDAL.pdb
+C:\Users\Adeal-Admin\documents\visual studio 2017\Projects\WebForm\EmployeeDAL\bin\Debug\netstandard2.0\EmployeeSchema.pdb
+C:\Users\Adeal-Admin\documents\visual studio 2017\Projects\WebForm\EmployeeDAL\obj\Debug\netstandard2.0\EmployeeDAL.csproj.CopyComplete
+C:\Users\Adeal-Admin\documents\visual studio 2017\Projects\WebForm\EmployeeDAL\obj\Debug\netstandard2.0\EmployeeDAL.dll
+C:\Users\Adeal-Admin\documents\visual studio 2017\Projects\WebForm\EmployeeDAL\obj\Debug\netstandard2.0\EmployeeDAL.pdb
